@@ -1,0 +1,1 @@
+#BUS (Business Layer): Xử lý các hành động tương tác với database và trả kết quả lại cho GUI
